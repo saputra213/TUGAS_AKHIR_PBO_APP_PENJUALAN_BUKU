@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="5ad35392-1515-4557-8001-6e8b37b894bd" name="BukukuDB MySQL Mapping">
+      <data-sources db="83be5e19-a4d0-4e41-bc0d-c502ac56e6bc" />
+      <scope>
+        <node kind="schema" qname="app_bukuku" />
+      </scope>
+    </mapping>
+  </component>
+</project>

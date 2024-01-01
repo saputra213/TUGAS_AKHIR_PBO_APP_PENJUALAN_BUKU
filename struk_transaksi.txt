@@ -1,0 +1,90 @@
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 15:21:39
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 5
+Total Harga     : Rp99.94999999999999
+Pelanggan       : aji
+Alamat Pelanggan: jogja
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 2
+Tanggal         : 01/01/2024 15:21:39
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 5
+Total Harga     : Rp99.94999999999999
+Pelanggan       : aji
+Alamat Pelanggan: jogja
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 15:50:49
+------------------------------
+Judul Buku      : Pemrograman Java
+Pengarang       : John Doe
+Harga per unit  : Rp25.99
+Jumlah          : 2
+Total Harga     : Rp51.98
+Pelanggan       : aji
+Alamat Pelanggan: aa
+Metode Pembayaran: Kartu Kredit
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 17:10:07
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 5
+Total Harga     : Rp99.94999999999999
+Pelanggan       : AJI
+Alamat Pelanggan: WONOGIRI
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 17:43:48
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 4
+Total Harga     : Rp79.96
+Pelanggan       : sasa
+Alamat Pelanggan: sini
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
