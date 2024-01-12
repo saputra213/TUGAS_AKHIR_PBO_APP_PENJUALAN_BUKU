@@ -88,3 +88,255 @@ Metode Pembayaran: Tunai
          TERIMA KASIH         
 ==============================
 
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 22:21:46
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 2
+Total Harga     : Rp39.98
+Pelanggan       : AJI
+Alamat Pelanggan: BANTUL
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 01/01/2024 22:24:57
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 3
+Total Harga     : Rp59.97
+Pelanggan       : AJI
+Alamat Pelanggan: SLEMAN
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 09:33:19
+------------------------------
+Judul Buku      : Dasar-dasar Python
+Pengarang       : Jane Smith
+Harga per unit  : Rp19.99
+Jumlah          : 3
+Total Harga     : Rp59.97
+Pelanggan       : aji
+Alamat Pelanggan: wng
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 09:37:05
+------------------------------
+Judul Buku      : OOP dalam PHP
+Pengarang       : Budi
+Harga per unit  : Rp23.99
+Jumlah          : 4
+Total Harga     : Rp95.96
+Pelanggan       : s
+Alamat Pelanggan: s
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 09:40:05
+------------------------------
+Judul Buku      : Machine Learning untuk Pemula
+Pengarang       : Citra
+Harga per unit  : Rp33.99
+Jumlah          : 1
+Total Harga     : Rp33.99
+Pelanggan       : a
+Alamat Pelanggan: a
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 09:43:13
+------------------------------
+Judul Buku      : Machine Learning untuk Pemula
+Pengarang       : Citra
+Harga per unit  : Rp33.99
+Jumlah          : 3
+Total Harga     : Rp101.97
+Pelanggan       : a
+Alamat Pelanggan: a
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 09:48:13
+------------------------------
+Judul Buku      : Machine Learning untuk Pemula
+Pengarang       : Citra
+Harga per unit  : Rp33.99
+Jumlah          : 2
+Total Harga     : Rp67.98
+Pelanggan       : a
+Alamat Pelanggan: s
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 10:25:32
+------------------------------
+Judul Buku      : Dasar Pemrograman C++
+Pengarang       : Rangga
+Harga per unit  : Rp17.99
+Jumlah          : 2
+Total Harga     : Rp35.98
+Pelanggan       : a
+Alamat Pelanggan: a
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 10:47:10
+------------------------------
+Judul Buku      : OOP dalam PHP
+Pengarang       : Budi
+Harga per unit  : Rp23.99
+Jumlah          : 1
+Total Harga     : Rp23.99
+Pelanggan       : e
+Alamat Pelanggan: e
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 09/01/2024 11:08:08
+------------------------------
+Judul Buku      : Belajar CSS
+Pengarang       : Ahmad
+Harga per unit  : Rp29.99
+Jumlah          : 1
+Total Harga     : Rp29.99
+Pelanggan       : w
+Alamat Pelanggan: w
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 10/01/2024 06:30:12
+------------------------------
+Judul Buku      : Pengantar Basis Data
+Pengarang       : Erik
+Harga per unit  : Rp21.99
+Jumlah          : 2
+Total Harga     : Rp43.98
+Pelanggan       : s
+Alamat Pelanggan: a
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 10/01/2024 17:54:02
+------------------------------
+Judul Buku      : Machine Learning dengan Scikit-Learn
+Pengarang       : Siti
+Harga per unit  : Rp31.99
+Jumlah          : 2
+Total Harga     : Rp63.98
+Pelanggan       : tono
+Alamat Pelanggan: sleman
+Metode Pembayaran: Kartu Kredit
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 10/01/2024 20:36:29
+------------------------------
+Judul Buku      : Dasar Pemrograman C++
+Pengarang       : Rangga
+Harga per unit  : Rp17.99
+Jumlah          : 5
+Total Harga     : Rp89.94999999999999
+Pelanggan       : Aji Prima
+Alamat Pelanggan: Bantul
+Metode Pembayaran: Tunai
+==============================
+         TERIMA KASIH         
+==============================
+
+==============================
+         STRUK PEMBELIAN       
+==============================
+Nomor Transaksi: 1
+Tanggal         : 10/01/2024 20:47:20
+------------------------------
+Judul Buku      : Machine Learning dengan Scikit-Learn
+Pengarang       : Siti
+Harga per unit  : Rp31.99
+Jumlah          : 2
+Total Harga     : Rp63.98
+Pelanggan       : ASEP
+Alamat Pelanggan: KULONPROGO
+Metode Pembayaran: Kartu Kredit
+==============================
+         TERIMA KASIH         
+==============================
+
